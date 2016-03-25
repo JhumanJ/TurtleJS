@@ -1,0 +1,100 @@
+/*
+
+   Stylesheet
+
+*/
+
+
+/*----- General ----- */
+
+.mrg-top-20 {
+    margin-top: 20px;
+}
+
+.mrg-btm-20 {
+    margin-top: 20px;
+}
+
+textarea {
+    resize:vertical;/*will prevent resizing horizontally*/
+}
+
+
+/*------Navbar-----*/
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #bdc3c7;
+}
+
+.navbar-default {
+    background-color: #2c3e50;
+    border-color: #34495e;
+}
+
+.navbar {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #bdc3c7;
+}
+
+/* ----- Button ----- */
+
+.btn-primary {
+    color: #fff;
+    background-color: #2c3e50;
+    border-color: #2c3e50;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #34495e;
+    border-color: #34495e;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #16a085;
+    border-color: #16a085;
+}
+
+/*------ Panel ------- */
+
+.panel-default>.panel-heading {
+    color: white;
+    background-color: #2c3e50;
+    border-color: #2c3e50;
+}
+
+pre {
+    background-color: #bdc3c7;
+}
+
+.noPad{
+    padding: 0px;
+}
+
+.ft-size-14{
+    font-size: 14px;
+}
+
+.logo {
+    width: 150px;
+}
