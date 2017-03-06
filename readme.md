@@ -1,27 +1,7 @@
-# Laravel PHP Framework
+# TurtleJS
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+![alt text](http://turtlejs.nahum.net/img/Home/index.png "Logo TurtleJS")
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+Turtle JS is an online platform to teach kids between the age of 11 - 14 simple programming logic using the Javascript language. After completing this tutorial the kids should have enough knowledge in computing to be able to understand and implement the Bubblesort Sorting Algorithm. The teaching material will thus cover the basics of a programming language and be shown to the kids in the most interactive way possible. The teaching material was made from scratch by our team members and follows the story of Loid the tortoise racing against his vicious friend Paul the Hare. Each video is an exercise in the form of a story. The goal is to make the exercise as appealing as possible for the kids by giving a purpose to each exercise: help the tortoise win the race.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+This project was done for a UCL CS Y1 coursework. Aim was to teach coding to kids.
